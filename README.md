@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=nord&layout=churchill&font=Redressed)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/stummk/stummk/blob/master/quotes.json&theme=nord&layout=churchill&font=Redressed)
   
 </div>
 
