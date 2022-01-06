@@ -379,7 +379,7 @@
 		"author": "Galileo Galilei",
 		"quote": "Mathematics is the alphabet that God used to describe the universe."
 	},
-	{
+	 {
         "quote":  "It always takes longer than you expect, even when you take into account Hofstadter\u0027s Law.",
         "author":  "Hofstadter\u0027s Law"
     },
@@ -488,7 +488,7 @@
         "author":  "Jeff Atwood"
     },
     {
-        "quote":  "Low",
+        "quote":  "Low-level programming is good for the programmer\u0027s soul.",
         "author":  "John Carmack"
     },
     {
@@ -520,7 +520,7 @@
         "author":  "Alan Perlis"
     },
     {
-        "quote":  "Less than 10% of the code has to do with the ostensible purpose of the system; the rest deals with input",
+        "quote":  "Less than 10% of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other housekeeping.",
         "author":  "Mary Shaw"
     },
     {
@@ -544,7 +544,7 @@
         "author":  "Steve Swartz"
     },
     {
-        "quote":  "Everyone by now presumably knows about the danger of premature optimization. I think we should be just as worried about premature design",
+        "quote":  "Everyone by now presumably knows about the danger of premature optimization. I think we should be just as worried about premature design - designing too early what a program should do.",
         "author":  "Paul Graham"
     },
     {
@@ -636,7 +636,7 @@
         "author":  "Stephen Hawking"
     },
     {
-        "quote":  "The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead",
+        "quote":  "The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.",
         "author":  "Gene Spafford"
     },
     {
@@ -704,11 +704,11 @@
         "author":  "Craig Bruce"
     },
     {
-        "quote":  "If the automobile had followed the same development cycle as the computer, a Rolls",
+        "quote":  "If the automobile had followed the same development cycle as the computer, a Rolls-Royce would today cost $100, get a million miles per gallon, and explode once a year, killing everyone inside.",
         "author":  "Robert X. Cringely"
     },
     {
-        "quote":  "I\u0027ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture. Near as I can tell, this coincides with the release of MS",
+        "quote":  "I\u0027ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture. Near as I can tell, this coincides with the release of MS-DOS.",
         "author":  "Larry DeLuca"
     },
     {
@@ -760,7 +760,7 @@
         "author":  "Brian Kernigan"
     },
     {
-        "quote":  "Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges, and it causes end",
+        "quote":  "Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges, and it causes end-user and administrator frustration.",
         "author":  "Ray Ozzie"
     },
     {
@@ -772,11 +772,11 @@
         "author":  "Grady Booch"
     },
     {
-        "quote":  "Just remember: you\u0027re not a ‘dummy,\u0027 no matter what those computer books claim. The real dummies are the people who",
+        "quote":  "Just remember: you\u0027re not a ‘dummy,\u0027 no matter what those computer books claim. The real dummies are the people who-though technically expert-couldn\u0027t design hardware and software that\u0027s usable by normal consumers if their lives depended upon it.",
         "author":  "Walter Mossberg"
     },
     {
-        "quote":  "Software suppliers are trying to make their software packages more ‘user",
+        "quote":  "Software suppliers are trying to make their software packages more ‘user friendly\u0027… Their best approach so far has been to take all the old brochures and stamp the words ‘user friendly\u0027 on the cover.",
         "author":  "Bill Gates"
     },
     {
@@ -784,7 +784,7 @@
         "author":  "Bjarne Stroustrup"
     },
     {
-        "quote":  "Programmers are in a race with the Universe to create bigger and better idiot",
+        "quote":  "Programmers are in a race with the Universe to create bigger and better idiot-proof programs, while the Universe is trying to create bigger and better idiots. So far the Universe is winning.",
         "author":  "Rich Cook"
     },
     {
@@ -808,7 +808,7 @@
         "author":  "Eric Raymond"
     },
     {
-        "quote":  "A hacker on a roll may be able to produce",
+        "quote":  "A hacker on a roll may be able to produce-in a period of a few months-something that a small development group (say, 7-8 people) would have a hard time getting together over a year. IBM used to report that certain programmers might be as much as 100 times as productive as other workers, or more.",
         "author":  "Peter Seebach"
     },
     {
@@ -825,7 +825,7 @@
     },
     {
         "quote":  "First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.",
-        "author":  "George Carrett)"
+        "author":  "George Carrett"
     },
     {
         "quote":  "First, solve the problem. Then, write the code.",
@@ -844,7 +844,7 @@
         "author":  "Anonymous"
     },
     {
-        "quote":  "Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.",
+        "quote":  "Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.-Stan Kelly",
         "author":  "Bootle"
     },
     {
@@ -860,7 +860,7 @@
         "author":  "Oktal"
     },
     {
-        "quote":  "There is no programming language",
+        "quote":  "There is no programming language-no matter how structured-that will prevent programmers from making bad programs.",
         "author":  "Larry Flon"
     },
     {
@@ -880,11 +880,11 @@
         "author":  "Gavin Russell Baker"
     },
     {
-        "quote":  "One of the main causes of the fall of the Roman Empire was that",
+        "quote":  "One of the main causes of the fall of the Roman Empire was that-lacking zero-they had no way to indicate successful termination of their C programs.",
         "author":  "Robert Firth"
     },
     {
-        "quote":  "Java is, in many ways, C++",
+        "quote":  "Java is, in many ways, C++-.",
         "author":  "Michael Feldman"
     },
     {
@@ -924,7 +924,7 @@
         "author":  "Bill Clinton"
     },
     {
-        "quote":  "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are",
+        "quote":  "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are-by definition-not smart enough to debug it.",
         "author":  "Brian Kernighan"
     },
     {
@@ -936,7 +936,7 @@
         "author":  "Vidiu Platon"
     },
     {
-        "quote":  "There are two ways to write error",
+        "quote":  "There are two ways to write error-free programs; only the third one works.",
         "author":  "Alan J. Perlis"
     },
     {
@@ -956,7 +956,7 @@
         "author":  "Paul Ehrlich"
     },
     {
-        "quote":  "A computer lets you make more mistakes faster than any invention in human history",
+        "quote":  "A computer lets you make more mistakes faster than any invention in human history-with the possible exceptions of handguns and tequila.",
         "author":  "Mitch Radcliffe"
     },
     {
@@ -980,7 +980,7 @@
         "author":  "Peter F. Drucker"
     },
     {
-        "quote":  "Continuous improvement is not about the things you do well",
+        "quote":  "Continuous improvement is not about the things you do well - that\u0027s work. Continuous improvement is about removing the things that get in the way of your work. The headaches, the things that slow you down, that\u0027s what continuous improvement is all about.",
         "author":  "Bruce Hamilton"
     },
     {
@@ -1064,7 +1064,7 @@
         "author":  "@iamdevloper"
     },
     {
-        "quote":  "Programmers don\u0027t burn out on hard work, they burn out on change",
+        "quote":  "Programmers don\u0027t burn out on hard work, they burn out on change-with-the-wind directives and not ‘shipping\u0027.",
         "author":  "Mark Berry"
     },
     {
@@ -1100,7 +1100,7 @@
         "author":  "David Parnas"
     },
     {
-        "quote":  "Don\u0027t document bad code",
+        "quote":  "Don\u0027t document bad code - rewrite it.",
         "author":  "Kernighan and Plauger"
     },
     {
@@ -1128,7 +1128,7 @@
         "author":  "John Johnson"
     },
     {
-        "quote":  "Programming is not a zero",
+        "quote":  "Programming is not a zero-sum game. Teaching something to a fellow programmer doesn\u0027t take it away from you.",
         "author":  "John Carmack"
     },
     {
@@ -1208,7 +1208,7 @@
         "author":  "Tom Duff"
     },
     {
-        "quote":  "Software obeys the law of gaseous expansion",
+        "quote":  "Software obeys the law of gaseous expansion - it continues to grow until memory is completely filled.",
         "author":  "Larry Gleason"
     },
     {
@@ -1272,7 +1272,7 @@
         "author":  "Jim McCarthy"
     },
     {
-        "quote":  "The best programmers are not marginally better than merely good ones. They are an order",
+        "quote":  "The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.",
         "author":  "Randall E. Stross"
     },
     {
@@ -1324,7 +1324,7 @@
         "author":  "Poul Anderson"
     },
     {
-        "quote":  "It\u0027s hard enough to find an error in your code when you\u0027re looking for it; it\u0027s even harder when you\u0027ve assumed your code is error",
+        "quote":  "It\u0027s hard enough to find an error in your code when you\u0027re looking for it; it\u0027s even harder when you\u0027ve assumed your code is error-free.",
         "author":  "Steve McConnell"
     },
     {
@@ -1352,7 +1352,7 @@
         "author":  "James Gosling"
     },
     {
-        "quote":  "A good programmer is someone who always looks both ways before crossing a one",
+        "quote":  "A good programmer is someone who always looks both ways before crossing a one-way street.",
         "author":  "Doug Linder"
     },
     {
@@ -1380,7 +1380,7 @@
         "author":  "Sam Morgan"
     },
     {
-        "quote":  "In a complex system you don\u0027t get to change just one thing",
+        "quote":  "In a complex system you don\u0027t get to change just one thing - ever.",
         "author":  "Michael Feathers"
     },
     {
@@ -1436,7 +1436,7 @@
         "author":  "John Carmack"
     },
     {
-        "quote":  "The fundamental problem with program maintenance is that fixing a defect has a substantial (20",
+        "quote":  "The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back..",
         "author":  "Fred Brooks"
     },
     {
@@ -1448,7 +1448,7 @@
         "author":  "Alan Perlis"
     },
     {
-        "quote":  "Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius",
+        "quote":  "Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius and a lot of courage to move in the opposite direction.",
         "author":  "Albert Einstein"
     },
     {
@@ -1528,7 +1528,7 @@
         "author":  "Larry Wall"
     },
     {
-        "quote":  "The evolution of languages: FORTRAN is a non",
+        "quote":  "The evolution of languages: FORTRAN is a non-typed language. C is a weakly typed language. Ada is a strongly typed language. C++ is a strongly hyped language.",
         "author":  "Ron Sercely"
     },
     {
@@ -1580,7 +1580,7 @@
         "author":  "Donald Norman"
     },
     {
-        "quote":  "Computers are high",
+        "quote":  "Computers are high-speed idiots, programmed by low-speed idiots.",
         "author":  "Unknown"
     },
     {
@@ -1596,7 +1596,7 @@
         "author":  "Niklaus Wirth"
     },
     {
-        "quote":  "... programming requires more concentration than other activities. It\u0027s the reason programmers get upset about \u0027quick interruptions\u0027",
+        "quote":  "... programming requires more concentration than other activities. It\u0027s the reason programmers get upset about \u0027quick interruptions\u0027 - such interruptions are tantamount to asking a juggler to keep three balls in the air and hold your groceries at the same time.",
         "author":  "Steve McConnell"
     },
     {
@@ -1604,7 +1604,7 @@
         "author":  "Pat Rice"
     },
     {
-        "quote":  "It\u0027s not the prevention of bugs but the recovery the ability to gracefully exterminate them",
+        "quote":  "It\u0027s not the prevention of bugs but the recovery the ability to gracefully exterminate them - that counts.",
         "author":  "Victoria Livschitz"
     },
     {
@@ -1680,11 +1680,11 @@
         "author":  "Alan M. Turing"
     },
     {
-        "quote":  "Don\u0027t document bad code",
+        "quote":  "Don\u0027t document bad code-rewrite it.",
         "author":  "Kernighan and Plauger"
     },
     {
-        "quote":  "You cannot teach beginners top",
+        "quote":  "You cannot teach beginners top-down programming, because they don\u0027t know which end is up.",
         "author":  "C.A.R. Hoare"
     },
     {
@@ -1692,7 +1692,7 @@
         "author":  "John Gall"
     },
     {
-        "quote":  "Adding last",
+        "quote":  "Adding last-minute features, whether in response to competitive pressure, as a developer\u0027s pet feature, or on the whim of management, causes more bugs in software than almost anything else.",
         "author":  "John Robbins"
     },
     {
@@ -1708,7 +1708,7 @@
         "author":  "Anonymous"
     },
     {
-        "quote":  "Better train people and risk they leave",
+        "quote":  "Better train people and risk they leave - than do nothing and risk they stay.",
         "author":  "Anonymous"
     },
     {
@@ -1740,7 +1740,7 @@
         "author":  "Bruce Brown"
     },
     {
-        "quote":  "Analysis occurs only when the domain expert is in the room (otherwise it is pseudo",
+        "quote":  "Analysis occurs only when the domain expert is in the room (otherwise it is pseudo-analysis)",
         "author":  "Brad Kain"
     },
     {
@@ -1772,15 +1772,15 @@
         "author":  "Unknown"
     },
     {
-        "quote":  "Perl",
+        "quote":  "Perl - The only language that looks the same before and after RSA encryption.",
         "author":  "Keith Bostic"
     },
     {
-        "quote":  "I invented the term Object",
+        "quote":  "I invented the term Object-Oriented, and I can tell you I did not have C++ in mind.",
         "author":  "Alan Kay"
     },
     {
-        "quote":  "Engineers are all basically high",
+        "quote":  "Engineers are all basically high-functioning autistics who have no idea how normal people do stuff.",
         "author":  "Cory Doctorow"
     },
     {
@@ -1816,7 +1816,7 @@
         "author":  "Niels Bohr"
     },
     {
-        "quote":  "XML is like violence",
+        "quote":  "XML is like violence - if it\u0027s not working for you, you\u0027re not using enough of it.",
         "author":  "Unknown"
     },
     {
@@ -1832,7 +1832,7 @@
         "author":  "Dennis Ritchie"
     },
     {
-        "quote":  "Better train people and risk they leave",
+        "quote":  "Better train people and risk they leave - than do nothing and risk they stay.",
         "author":  "Anonymous"
     },
     {
