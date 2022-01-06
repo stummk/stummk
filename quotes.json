@@ -378,5 +378,12 @@
 	{
 		"author": "Galileo Galilei",
 		"quote": "Mathematics is the alphabet that God used to describe the universe."
-	}
+	},
+	{
+
+      "quote":"My programs don\u0027t have bugs, they just develop random features",
+
+      "author":"Unknown"
+
+   }
 ]
