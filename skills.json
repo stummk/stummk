@@ -1,9 +1,178 @@
 [
 	{
+		"skill": "java",
+		"level": "S"
+	},
+	{
+		"skill": "kotlin",
+		"level": "B"
+	},
+	{
+		"skill": "csharp",
+		"level": "S"
+	},
+	{
+		"skill": "typescript",
+		"level": "A"
+	},
+	{
+		"skill": "javascript",
+		"level": "A"
+	},
+	{
+		"skill": "python",
+		"level": "B"
+	},
+	{
+		"skill": "c",
+		"level": "C"
+	},
+	{
+		"skill": "cplusplus",
+		"level": "C"
+	},
+	{
+		"skill": "css3",
+		"level": "S"
+	},
+	{
+		"skill": "html5",
+		"level": "S"
+	},
+	{
+		"skill": "dotnet",
+		"level": "S"
+	},
+	{
+		"skill": "angular",
+		"level": "A"
+	},
+	{
+		"skill": "Flutter",
+		"level": "B"
+	},
+	{
+		"skill": "nodejs",
+		"level": "B"
+	},
+	{
+		"skill": "microsoftsqlserver"
+	},
+	{
+		"skill": "sqlite"
+	},
+	{
+		"skill": "mysql"
+	},
+	{
+		"skill": "postgresql"
+	},
+	{
+		"skill": "redis"
+	},
+	{
+		"skill": "swagger"
+	},
+	{
+		"skill": "postman"
+	},
+	{
+		"skill": "json"
+	},
+	{
+		"skill": "flask"
+	},
+	{
+		"skill": "docker"
+	},
+	{
+		"skill": "linux"
+	},
+	{
+		"skill": "windows"
+	},
+	{
+		"skill": "android"
+	},
+	{
+		"skill": "nginx"
+	},
+	{
+		"skill": "firebase"
+	},
+	{
+		"skill": "heroku"
+	},
+	{
+		"skill": "vercel"
+	},
+	{
+		"skill": "gradle"
+	},    
+	{
+		"skill": "git"
+	},
+	{
 		"skill": "github"
 	},
 	{
-		"skill": "java",
-		"level": "S"
+		"skill": "gitlab"
+	},
+	{
+		"skill": "azuredevops"
+	},
+	{
+		"skill": "octopusdeploy"
+	},
+	{
+		"skill": "jsonwebtokens"
+	},
+	{
+		"skill": "letsencrypt"
+	},
+	{
+		"skill": "openid"
+	},
+	{
+		"skill": "openssl"
+	},
+	{
+		"skill": "owasp"
+	},
+	{
+		"skill": "visualstudio"
+	},
+	{
+		"skill": "visualstudiocode"
+	},
+	{
+		"skill": "androidstudio"
+	},
+	{
+		"skill": "webstorm"
+	},
+	{
+		"skill": "eclipseide"
+	},
+	{
+		"skill": "pycharm"
+	},
+	{
+		"skill": "gnubash"
+	},
+	{
+		"skill": "powershell"
+	},
+	{
+		"skill": "raspberrypi"
+	},
+	{
+		"skill": "arduino"
+	},
+	{
+		"skill": "npm"
+	},
+	{
+		"skill": "nuget"
 	}
 ]
