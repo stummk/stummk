@@ -1,5 +1,9 @@
 [
-  {
-	"skill": "github"
-  }
+	{
+		"skill": "github"
+	},
+	{
+		"skill": "java",
+		"level": 100
+	}
 ]
