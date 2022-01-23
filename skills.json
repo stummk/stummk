@@ -48,11 +48,11 @@
 		"level": "A"
 	},
 	{
-		"skill": "Flutter",
+		"skill": "flutter",
 		"level": "B"
 	},
 	{
-		"skill": "nodejs",
+		"skill": "node.js",
 		"level": "B"
 	},
 	{
@@ -101,9 +101,6 @@
 		"skill": "firebase"
 	},
 	{
-		"skill": "heroku"
-	},
-	{
 		"skill": "vercel"
 	},
 	{
@@ -128,16 +125,7 @@
 		"skill": "jsonwebtokens"
 	},
 	{
-		"skill": "letsencrypt"
-	},
-	{
 		"skill": "openid"
-	},
-	{
-		"skill": "openssl"
-	},
-	{
-		"skill": "owasp"
 	},
 	{
 		"skill": "visualstudio"
@@ -168,11 +156,5 @@
 	},
 	{
 		"skill": "arduino"
-	},
-	{
-		"skill": "npm"
-	},
-	{
-		"skill": "nuget"
 	}
 ]
