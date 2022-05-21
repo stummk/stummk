@@ -44,12 +44,15 @@
 		"level": "S"
 	},
 	{
+		"skill": "blazor"
+	},
+	{
 		"skill": "angular",
 		"level": "A"
 	},
 	{
 		"skill": "flutter",
-		"level": "B"
+		"level": "A"
 	},
 	{
 		"skill": "node.js",
