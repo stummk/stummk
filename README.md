@@ -1,10 +1,11 @@
 <!-- Here will be a header -->
-
+<!-- 
 <div align="center">
   
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/stummk/stummk/blob/master/quotes.json&theme=nord&layout=churchill&font=Redressed)
   
 </div>
+-->
 
 [![Skills](https://github-profile-skills-one.vercel.app/skill?theme=nord&skills=https://raw.githubusercontent.com/stummk/stummk/master/skills.json&margin-w=65&margin-h=20&column=6)](https://github.com/stummk/github-profile-skills)
 
