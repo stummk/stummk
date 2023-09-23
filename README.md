@@ -13,4 +13,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stummk&theme=nord&card_width=1000&custom_title=Most%20Used%20Languages%20on%20Github)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Skills](https://github-profile-skills-one.vercel.app/skill?theme=nord&skills=https://raw.githubusercontent.com/stummk/stummk/master/skills.json&margin-w=65&margin-h=20&column=6)](https://github.com/stummk/github-profile-skills)
+<!-- [![Skills](https://github-profile-skills-one.vercel.app/skill?theme=nord&skills=https://raw.githubusercontent.com/stummk/stummk/master/skills.json&margin-w=65&margin-h=20&column=6)](https://github.com/stummk/github-profile-skills)
+-->
