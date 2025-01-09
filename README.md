@@ -11,8 +11,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stummk&theme=nord&margin-w=65)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stummk&theme=nord&card_width=1000&custom_title=Most%20Used%20Languages%20on%20Github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stummk&theme=nord&card_width=1000&custom_title=Most%20Used%20Languages%20on%20Github&&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-contributor-stats.vercel.app/api?username=stummk&limit=5&theme=nord&combine_all_yearly_contributions=true&&order_by=contributions)
+<div align="center">
+  
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=stummk&limit=5&theme=nord&combine_all_yearly_contributions=true&&order_by=contributions&hide_contributor_rank=false)
+
+</div>
 
 [![Skills](https://github-profile-skills-one.vercel.app/skill?theme=nord&skills=https://raw.githubusercontent.com/stummk/stummk/master/skills.json&margin-w=65&margin-h=20&column=6)](https://github.com/stummk/github-profile-skills)
