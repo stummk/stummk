@@ -1,62 +1,48 @@
 [
 	{
 		"skill": "java",
-		"level": "S"
 	},
 	{
 		"skill": "kotlin",
-		"level": "B"
 	},
 	{
 		"skill": "csharp",
-		"level": "S"
 	},
 	{
 		"skill": "typescript",
-		"level": "A"
 	},
 	{
 		"skill": "javascript",
-		"level": "A"
 	},
 	{
 		"skill": "python",
-		"level": "B"
 	},
 	{
 		"skill": "c",
-		"level": "C"
 	},
 	{
 		"skill": "cplusplus",
-		"level": "C"
 	},
 	{
 		"skill": "css3",
-		"level": "S"
 	},
 	{
 		"skill": "html5",
-		"level": "S"
 	},
 	{
 		"skill": "dotnet",
-		"level": "S"
 	},
 	{
 		"skill": "blazor"
 	},
 	{
 		"skill": "angular",
-		"level": "A"
 	},
 	{
 		"skill": "flutter",
-		"level": "A"
 	},
 	{
 		"skill": "node.js",
-		"level": "B"
 	},
 	{
 		"skill": "microsoftsqlserver"
@@ -159,5 +145,20 @@
 	},
 	{
 		"skill": "arduino"
-	}
+	},
+	{
+		"skill": "apachesolr"
+	},
+	{
+		"skill": "blazor"
+	},
+	{
+		"skill": "blazor"
+	},
+	{
+		"skill": "openai"
+	},
+	{
+		"skill": "ollama"
+	},
 ]
